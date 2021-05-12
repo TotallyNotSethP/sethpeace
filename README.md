@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sethpeace
-- 👀 I’m interested in anything and everything Python!!!
+- 👀 I’m interested in anything and everything Python (and 42)!!!
 - 🌱 I’m currently learning how to write Esoteric Language Interpreters.
 - 📫 How to reach me: sethevanpeace@gmail.com
 
